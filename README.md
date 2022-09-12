@@ -22,7 +22,7 @@
  ---
 ## Technical Skills
 
-### Im best at:
+### I am best at:
 
 <p align="left">
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -37,7 +37,7 @@
 <img atl="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/ >
 </p>
 
-### Im learning:
+### I am learning:
 <p align="left">
 <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
