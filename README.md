@@ -8,8 +8,6 @@
 
   ❧ 🐞 loves to debug 
   
-  ❧ **believes the magic is to ♡ the process**
-  
   ❧ 🔬 former science educator 
   
   ❧ 🌱 nature lover
@@ -17,6 +15,8 @@
   ❧ 🌍 slow world traveler
   
   ❧ 🌗 real-life introvert-extravert 
+  
+  ❧ believes the magic is to ♡ the process, and I do very much!!!
   
  ---
  ---
