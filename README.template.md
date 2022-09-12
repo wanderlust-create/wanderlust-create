@@ -1,8 +1,29 @@
-![Tamara's GitHub Banner](https://user-images.githubusercontent.com/67713820/189728690-c8182754-b292-4727-90a0-01089d3f8044.jpeg)
+![Tamara's GitHub Banner](https://user-images.githubusercontent.com/67713820/189742376-48e84a13-a7ad-4bc3-bf5f-b55175ea0aed.jpeg)
 
-## Im best at:
+<h1>Thank you for visiting my page! A little bit about me:</h1>
 
-<p align="center">
+  ❧ 👩🏽‍🔬 💻 Software engineer
+  
+  ❧ Solves logic problems for fun ༗
+
+  ❧ 🐞 loves to debug 
+  
+  ❧ **believes the magic is to ♡ the process**
+  
+  ❧ 🔬 former science educator 
+  
+  ❧ 🌱 nature lover
+  
+  ❧ 🌍 slow world traveler
+  
+  ❧ 🌗 real-life introvert-extravert 
+  
+ ---
+## Technical Skills
+
+### Im best at:
+
+<p align="left">
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
@@ -15,8 +36,8 @@
 <img atl="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/ >
 </p>
 
-## Im learning:
-<p align="center">
+### Im learning:
+<p align="left">
 <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,8 +48,20 @@
 </p>
 
 
-## Practies & Process:
+### Practies & Process:
 ![OOP](https://user-images.githubusercontent.com/64919819/113648808-77684300-964a-11eb-8575-05aeaa946a6f.png)
 ![TDD](https://user-images.githubusercontent.com/64919819/113648827-7f27e780-964a-11eb-8f9e-dfdc2ed077c5.png)
 ![MVC](https://user-images.githubusercontent.com/64919819/113648848-8949e600-964a-11eb-833f-91872b6f3fe0.png)
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
+
+
+---
+## My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wanderlust-create&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Tamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlust-create)](https://github.com/wanderlust-create/github-readme-stats)
+
+
+---
+<h2>Connect with me!!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h2>
+  <a target="_blank"href="https://www.linkedin.com/in/tamara-dowis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tamara.dowis@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
