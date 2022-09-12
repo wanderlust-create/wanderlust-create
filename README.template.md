@@ -1,18 +1,31 @@
-![Tamara's GitHub Banner](https://user-images.githubusercontent.com/67713820/161406881-8c96de29-0c84-4fe7-911e-ff97be9d748a.png)
+![Tamara's GitHub Banner](https://user-images.githubusercontent.com/67713820/189728690-c8182754-b292-4727-90a0-01089d3f8044.jpeg)
 
 ## Im best at:
-![Ruby](https://user-images.githubusercontent.com/64919819/113647913-f78da900-9648-11eb-90e6-6db4f7fa39bb.png)
-![Rails](https://user-images.githubusercontent.com/64919819/113647936-ffe5e400-9648-11eb-88b7-a85a0a20ca92.png)
-![SQL](https://user-images.githubusercontent.com/64919819/113647954-0aa07900-9649-11eb-94fa-53a435261ecf.png)
-![Postgres](https://user-images.githubusercontent.com/64919819/113648154-63701180-9649-11eb-9424-b3c6d1eeae4f.png)
-![Rspec](https://user-images.githubusercontent.com/64919819/113648167-6965f280-9649-11eb-8794-0f1082ae8d1c.png)
-![Git](https://user-images.githubusercontent.com/64919819/113648232-81d60d00-9649-11eb-8ea4-0ff5e399afb6.png)
-![Github](https://user-images.githubusercontent.com/64919819/113648263-8ef2fc00-9649-11eb-92ee-e17ac79c0627.png)
-![Heroku](https://user-images.githubusercontent.com/64919819/113648465-e1ccb380-9649-11eb-904d-3e23e9f7bdb1.png)
+
+<p align="center">
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> 
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
+<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?&style=for-the-badge&logo=GitHub&logoColor=%23EFF7FF" />
+<img alt="RSpec" src="https://img.shields.io/badge/RSpec-CC342D?style=for-the-badge&logo=RubyGems&logoColor=white" /> 
+<img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img atl="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/ >
+</p>
 
 ## Im learning:
-![HTML](https://user-images.githubusercontent.com/64919819/113647961-10965a00-9649-11eb-91e6-271efbae7d28.png)
-![CSS](https://user-images.githubusercontent.com/64919819/113647974-15f3a480-9649-11eb-90a6-0e5716a2f6a5.png)
+<p align="center">
+<img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
 
 ## Practies & Process:
 ![OOP](https://user-images.githubusercontent.com/64919819/113648808-77684300-964a-11eb-8575-05aeaa946a6f.png)
