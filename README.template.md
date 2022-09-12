@@ -19,6 +19,7 @@
   ❧ 🌗 real-life introvert-extravert 
   
  ---
+ ---
 ## Technical Skills
 
 ### Im best at:
@@ -56,11 +57,14 @@
 
 
 ---
+---
+
 ## My GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wanderlust-create&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Tamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlust-create)](https://github.com/wanderlust-create/github-readme-stats)
 
 
+---
 ---
 <h2>Connect with me!!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h2>
   <a target="_blank"href="https://www.linkedin.com/in/tamara-dowis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
