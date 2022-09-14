@@ -61,8 +61,6 @@
 
 ## My GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wanderlust-create&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Tamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlust-create)](https://github.com/wanderlust-create/github-readme-stats)
-
 
 ---
 ---
