@@ -6,9 +6,11 @@
 
 Exploring software engineering with AI tools to build creative projects and improve problem-solving skills.
 
-❧ **💻 Software Engineer with a love for the process**  
+> As a software engineer with experience in TypeScript and Ruby, I apply the same analytical mindset I cultivated as a science educator to tackle technical challenges and build quality software.
+
+❧ **💻 Software Engineer with a strong foundation in TypeScript, Ruby, and problem-solving**  
 ❧ **🔍 Debugging enthusiast and logic problem solver**  
-❧ **🎓 Former science educator, passionate about learning and teaching**  
+❧ **🎓 Former science educator who brings curiosity, adaptability, and a love for learning to software engineering**  
 ❧ **🌱 Passionate about nature and sustainability**  
 ❧ **🌍 Slow world traveler with a love for exploration**  
 ❧ **🌗 Balanced introvert-extrovert**  
