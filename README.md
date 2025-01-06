@@ -4,19 +4,17 @@
 
   ❧ 👩🏽‍🔬 💻 Software engineer
   
-  ❧ Solves logic problems for fun ༗
+  ❧ 🔍 Loves debugging and solving logic puzzles
 
-  ❧ 🐞 loves to debug 
+  ❧ 🎓 Former science educator turned coder
   
-  ❧ 🔬 former science educator 
+  ❧ 🌱 Passionate about nature and sustainability
   
-  ❧ 🌱 nature lover
+  ❧ 🌍 World traveler with a love for slow exploration
   
-  ❧ 🌍 slow world traveler
+  ❧ 🌗 Balanced introvert-extrovert
   
-  ❧ 🌗 real-life introvert-extravert 
-  
-  ❧ believes the magic is to ♡ the process, and I do very much!!!
+  ❧♡ Believer in the magic of loving the process
   
  ---
  ---
