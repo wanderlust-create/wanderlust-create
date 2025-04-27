@@ -7,7 +7,7 @@
 Hi, I'm **Tamara** — a backend-focused software engineer based in Chicago.  
 I specialize in building **scalable REST APIs**, **database-driven apps**, and **data solutions** using technologies like **Node.js**, **PostgreSQL**, **TypeScript**, and **Ruby on Rails**.
 
-I'm passionate about creating clean, maintainable code and love working on projects that make a real-world impact. After years as a science educator, I transitioned full-time into software engineering, bringing a mindset of continuous learning and problem-solving.
+I'm passionate about creating clean, maintainable code and love working on projects that make a real-world impact. After years as a science educator, I transitioned into software engineering, bringing a mindset of continuous learning and problem-solving.
 
 ---
 
