@@ -15,10 +15,10 @@ Let's build something meaningful — and maybe celebrate with a debugging victor
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tamaradowis/" target="_blank">
+  <a href="https://www.linkedin.com/in/tamara-dowis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tamara%20Dowis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wanderlust-create.github.io/resume//TamaraDowis_SoftwareEngineer_Resume.pdf" target="_blank">
+  <a href="https://wanderlust-create.github.io/resume/TamaraDowis_SoftwareEngineer_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-8E7CC3?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Badge"/>
   </a>
   <a href="mailto:tamara.dowis@gmail.com" target="_blank">
