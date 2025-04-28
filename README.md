@@ -2,16 +2,29 @@
   <img src="https://github.com/user-attachments/assets/13f8168a-3308-48e4-9c90-e1215ca0c4ef" alt="Tamara Dowis GitHub Banner" width=1000"/>
 </p>
 
-# 📍 About Me
+# 👋 Hi, I'm Tamara
 
-Hi, I'm **Tamara** — a backend-focused software engineer based in Chicago. 
+I'm a backend-focused software engineer based in Chicago, specializing in building scalable REST APIs, relational databases, and data-driven applications.
 
-I specialize in building **scalable REST APIs**, **relational databases**, and **database-driven apps** using technologies like **Node.js**, **PostgreSQL**, **TypeScript**, and **Ruby on Rails**.
+Tech I love working with: **TypeScript**, **Node.js**, **Ruby on Rails**, and **PostgreSQL**.
 
-I'm passionate about creating clean, maintainable code and building tools that make a real-world impact.
+After years as a science educator, I transitioned into software development, bringing deep problem-solving skills, strong collaboration, and a lifelong love of learning to every project.
 
-After years as a science educator, I transitioned into software engineering, bringing a mindset of continuous learning, deep problem-solving, and collaboration. I love a good challenge — especially one that ends in a hard-earned debugging victory dance.
+Let's build something meaningful — and maybe celebrate with a debugging victory dance along the way! 🎉
 
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tamaradowis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tamara%20Dowis-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/wanderlust-create" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-wanderlust--create-black?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
 
