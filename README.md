@@ -15,7 +15,7 @@ Let's build something meaningful — and maybe celebrate with a debugging victor
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tamaradowis/" target="_blank">
+  <a href="https://www.linkedin.com/in/tamara-dowis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tamara%20Dowis-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/wanderlust-create" target="_blank">
