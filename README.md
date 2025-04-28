@@ -33,7 +33,7 @@ Let's build something meaningful — and maybe celebrate with a debugging victor
   <a href="https://github.com/wanderlust-create/adventure-life-REST-API" target="_blank">
     <img src="https://img.shields.io/badge/Adventure%20Life%20API-5FD0A4?style=for-the-badge" alt="Adventure Life API Badge"/>
   </a>
-  <a href="https://github.com/wanderlust-create/artisan-marketplace" target="_blank">
+  <a href="https://github.com/wanderlust-create/artisan_marketplace" target="_blank">
     <img src="https://img.shields.io/badge/Artisan%20Marketplace-F4D06F?style=for-the-badge" alt="Artisan Marketplace Badge"/>
   </a>
 </p>
